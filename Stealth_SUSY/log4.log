@@ -1,0 +1,141 @@
+Importing modules
+Loading FW Lite setup.
+Using TENStyle
+Getting options
+Setting ROOT options
+Reading Files
+[#1] INFO:DataHandling -- RooDataSet::read: reading file susy_das_Inputfiles/data_geq4jets_das.txt
+[#0] ERROR:DataHandling -- RooDataSet::read(static): read error at line 160
+[#1] INFO:DataHandling -- RooDataSet::read: read 159 events (ignored 0 out of range events)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(bkgpdf_f2_Int[st]) using numeric integrator RooIntegrator1D to calculate Int(st)
+[#1] INFO:Minization -- RooMinuit::optimizeConst: activating const optimization
+ **********
+ **   13 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=988.615 FROM MIGRAD    STATUS=INITIATE       15 CALLS          16 TOTAL
+                     EDM= unknown      STRATEGY= 1      NO ERROR MATRIX       
+  EXT PARAMETER               CURRENT GUESS       STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  f2_p0        0.00000e+00   constant   
+   2  f2_p1       -3.85732e+01   3.00000e+00  -8.45289e-01  -4.59888e+00
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=988.572 FROM MIGRAD    STATUS=CONVERGED      23 CALLS          24 TOTAL
+                     EDM=1.80371e-05    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  f2_p0        0.00000e+00   constant   
+   2  f2_p1       -3.76586e+01   3.05410e+00   1.38970e-03   6.73337e-02
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  9.340e+00 
+ **********
+ **   18 **HESSE        1000
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=988.572 FROM HESSE     STATUS=OK              5 CALLS          30 TOTAL
+                     EDM=1.80346e-05    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                INTERNAL      INTERNAL  
+  NO.   NAME      VALUE            ERROR       STEP SIZE       VALUE   
+   1  f2_p0        0.00000e+00   constant   
+   2  f2_p1       -3.76586e+01   3.05410e+00   2.77940e-04   2.49405e-01
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  9.340e+00 
+[#1] INFO:Minization -- RooMinuit::optimizeConst: deactivating const optimization
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(bkgpdf_f1_Int[st]) using numeric integrator RooIntegrator1D to calculate Int(st)
+[#1] INFO:Minization -- RooMinuit::optimizeConst: activating const optimization
+ **********
+ **   13 **MIGRAD         500           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=987.794 FROM MIGRAD    STATUS=INITIATE        4 CALLS           5 TOTAL
+                     EDM= unknown      STRATEGY= 1      NO ERROR MATRIX       
+  EXT PARAMETER               CURRENT GUESS       STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  f1_p0        5.00000e+00   1.00000e+00   2.01358e-01   3.14621e+00
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=987.768 FROM MIGRAD    STATUS=CONVERGED      12 CALLS          13 TOTAL
+                     EDM=7.98491e-06    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  f1_p0        4.91927e+00   3.53388e-01   1.55513e-03  -3.99424e-02
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.251e-01 
+ **********
+ **   18 **HESSE         500
+ **********
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=987.768 FROM HESSE     STATUS=OK              5 CALLS          18 TOTAL
+                     EDM=7.98303e-06    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                INTERNAL      INTERNAL  
+  NO.   NAME      VALUE            ERROR       STEP SIZE       VALUE   
+   1  f1_p0        4.91927e+00   3.53388e-01   3.11026e-04  -1.61464e-02
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.251e-01 
+[#1] INFO:Minization -- RooMinuit::optimizeConst: deactivating const optimization
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(bkgpdf_f3_Int[st]) using numeric integrator RooIntegrator1D to calculate Int(st)
+[#1] INFO:Minization -- RooMinuit::optimizeConst: activating const optimization
+ **********
+ **   13 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=996.393 FROM MIGRAD    STATUS=INITIATE       24 CALLS          25 TOTAL
+                     EDM= unknown      STRATEGY= 1      NO ERROR MATRIX       
+  EXT PARAMETER               CURRENT GUESS       STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  f3_p0        3.00000e+01   4.00000e+00   0.00000e+00   8.38380e+01
+   2  f3_p1        5.77413e+00   1.50000e+00   2.24649e-01  -2.18938e+02
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=987.761 FROM MIGRAD    STATUS=CONVERGED     145 CALLS         146 TOTAL
+                     EDM=6.73631e-05    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  f3_p0        1.00001e+01   4.40736e+00   1.22282e-02   6.61086e-03
+   2  f3_p1        1.22487e+00   9.44557e-02   2.82703e-04  -6.13167e-01
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  2    ERR DEF=0.5
+  1.534e-03  1.145e-03 
+  1.145e-03  8.922e-03 
+ PARAMETER  CORRELATION COEFFICIENTS  
+       NO.  GLOBAL      1      2
+        1  0.30962   1.000  0.310
+        2  0.30962   0.310  1.000
+ **********
+ **   18 **HESSE        1000
+ **********
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=987.761 FROM HESSE     STATUS=OK             10 CALLS         156 TOTAL
+                     EDM=7.60541e-05    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                INTERNAL      INTERNAL  
+  NO.   NAME      VALUE            ERROR       STEP SIZE       VALUE   
+   1  f3_p0        1.00001e+01   4.22723e+00   4.89126e-04  -1.56790e+00
+   2  f3_p1        1.22487e+00   9.03654e-02   5.65406e-05  -1.21900e+00
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  2    ERR DEF=0.5
+  1.469e-03  3.818e-04 
+  3.818e-04  8.166e-03 
+ PARAMETER  CORRELATION COEFFICIENTS  
+       NO.  GLOBAL      1      2
+        1  0.11024   1.000  0.110
+        2  0.11024   0.110  1.000
+[#1] INFO:Minization -- RooMinuit::optimizeConst: deactivating const optimization
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(bkgpdf_f1_Int[st]) using numeric integrator RooIntegrator1D to calculate Int(st)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(bkgpdf_f2_Int[st]) using numeric integrator RooIntegrator1D to calculate Int(st)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(bkgpdf_f3_Int[st]) using numeric integrator RooIntegrator1D to calculate Int(st)
+Info in <TCanvas::Print>: pdf file Result//bkgfit_4jet.pdf has been created

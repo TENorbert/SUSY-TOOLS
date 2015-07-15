@@ -1,0 +1,3033 @@
+loading TDR style and setting as default
+--- dataset for DATA --- 
+TH1.Print Name  = h2_data, Entries= 46850, Total sum= 19215
+projX: 0x17c9e770	projY: 0x17c9dda0
+RealVars created
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(h_allDATA): fit range of variable met expanded to nearest bin boundaries: [30,600] --> [30,600]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(h_allDATA): fit range of variable time expanded to nearest bin boundaries: [0,25] --> [0,25]
+RooDataHist create
+5.7 : density
+0.25 : density
+--- dataset for W -> e nu --- 
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+TH1.Print Name  = h2_Wenu, Entries= 1425, Total sum= 564
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(hWenu): fit range of variable met expanded to nearest bin boundaries: [30,600] --> [30,600]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(hWenu): fit range of variable time expanded to nearest bin boundaries: [0,25] --> [0,25]
+TH1.Print Name  = methistwenu__met, Entries= 100, Total sum= 564.001
+i: 0  y: 0
+i: 1  y: 0
+i: 2  y: 0
+i: 3  y: 0
+i: 4  y: 0
+i: 5  y: 0
+i: 6  y: 545
+i: 7  y: 0
+i: 8  y: 0
+i: 9  y: 0
+i: 10  y: 0
+i: 11  y: 0
+i: 12  y: 0
+i: 13  y: 0
+i: 14  y: 0
+i: 15  y: 0
+i: 16  y: 18.0001
+i: 17  y: 0
+i: 18  y: 0
+i: 19  y: 0
+i: 20  y: 0
+i: 21  y: 0
+i: 22  y: 0
+i: 23  y: 0
+i: 24  y: 0
+i: 25  y: 0
+i: 26  y: 1.00009
+i: 27  y: 0
+i: 28  y: 0
+i: 29  y: 0
+i: 30  y: 0
+i: 31  y: 0
+i: 32  y: 0
+i: 33  y: 0
+i: 34  y: 0
+i: 35  y: 0
+i: 36  y: 0.0001
+i: 37  y: 0
+i: 38  y: 0
+i: 39  y: 0
+i: 40  y: 0
+i: 41  y: 0
+i: 42  y: 0
+i: 43  y: 0
+i: 44  y: 0
+i: 45  y: 0
+i: 46  y: 0.0001
+i: 47  y: 0
+i: 48  y: 0
+i: 49  y: 0
+i: 50  y: 0
+i: 51  y: 0
+i: 52  y: 0
+i: 53  y: 0
+i: 54  y: 0
+i: 55  y: 0
+i: 56  y: 0.0001
+i: 57  y: 0
+i: 58  y: 0
+i: 59  y: 0
+i: 60  y: 0
+i: 61  y: 0
+i: 62  y: 0
+i: 63  y: 0
+i: 64  y: 0
+i: 65  y: 0
+i: 66  y: 0.0001
+i: 67  y: 0
+i: 68  y: 0
+i: 69  y: 0
+i: 70  y: 0
+i: 71  y: 0
+i: 72  y: 0
+i: 73  y: 0
+i: 74  y: 0
+i: 75  y: 0
+i: 76  y: 0.0001
+i: 77  y: 0
+i: 78  y: 0
+i: 79  y: 0
+i: 80  y: 0
+i: 81  y: 0
+i: 82  y: 0
+i: 83  y: 0
+i: 84  y: 0
+i: 85  y: 0
+i: 86  y: 0.0001
+i: 87  y: 0
+i: 88  y: 0
+i: 89  y: 0
+i: 90  y: 0
+i: 91  y: 0
+i: 92  y: 0
+i: 93  y: 0
+i: 94  y: 0
+i: 95  y: 0
+i: 96  y: 0.0001
+i: 97  y: 0
+i: 98  y: 0
+i: 99  y: 0
+i: 100  y: 0
+i: 101  y: 0
+WEnu integral: 564.001
+---Not Using dataset for QCD Control sample --- 
+--- dataset for QCD --- 
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+TH1.Print Name  = h2_QCD, Entries= 222146, Total sum= 90648
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(hQCD): fit range of variable met expanded to nearest bin boundaries: [30,600] --> [30,600]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(hQCD): fit range of variable time expanded to nearest bin boundaries: [0,25] --> [0,25]
+TH1.Print Name  = methistqcd__met, Entries= 100, Total sum= 90648
+i: 0  y: 0
+i: 1  y: 0
+i: 2  y: 0
+i: 3  y: 0
+i: 4  y: 0
+i: 5  y: 0
+i: 6  y: 89237
+i: 7  y: 0
+i: 8  y: 0
+i: 9  y: 0
+i: 10  y: 0
+i: 11  y: 0
+i: 12  y: 0
+i: 13  y: 0
+i: 14  y: 0
+i: 15  y: 0
+i: 16  y: 1213
+i: 17  y: 0
+i: 18  y: 0
+i: 19  y: 0
+i: 20  y: 0
+i: 21  y: 0
+i: 22  y: 0
+i: 23  y: 0
+i: 24  y: 0
+i: 25  y: 0
+i: 26  y: 143
+i: 27  y: 0
+i: 28  y: 0
+i: 29  y: 0
+i: 30  y: 0
+i: 31  y: 0
+i: 32  y: 0
+i: 33  y: 0
+i: 34  y: 0
+i: 35  y: 0
+i: 36  y: 32.0001
+i: 37  y: 0
+i: 38  y: 0
+i: 39  y: 0
+i: 40  y: 0
+i: 41  y: 0
+i: 42  y: 0
+i: 43  y: 0
+i: 44  y: 0
+i: 45  y: 0
+i: 46  y: 12.0001
+i: 47  y: 0
+i: 48  y: 0
+i: 49  y: 0
+i: 50  y: 0
+i: 51  y: 0
+i: 52  y: 0
+i: 53  y: 0
+i: 54  y: 0
+i: 55  y: 0
+i: 56  y: 6.00009
+i: 57  y: 0
+i: 58  y: 0
+i: 59  y: 0
+i: 60  y: 0
+i: 61  y: 0
+i: 62  y: 0
+i: 63  y: 0
+i: 64  y: 0
+i: 65  y: 0
+i: 66  y: 0.0001
+i: 67  y: 0
+i: 68  y: 0
+i: 69  y: 0
+i: 70  y: 0
+i: 71  y: 0
+i: 72  y: 0
+i: 73  y: 0
+i: 74  y: 0
+i: 75  y: 0
+i: 76  y: 1.00009
+i: 77  y: 0
+i: 78  y: 0
+i: 79  y: 0
+i: 80  y: 0
+i: 81  y: 0
+i: 82  y: 0
+i: 83  y: 0
+i: 84  y: 0
+i: 85  y: 0
+i: 86  y: 0.0001
+i: 87  y: 0
+i: 88  y: 0
+i: 89  y: 0
+i: 90  y: 0
+i: 91  y: 0
+i: 92  y: 0
+i: 93  y: 0
+i: 94  y: 0
+i: 95  y: 0
+i: 96  y: 4.00009
+i: 97  y: 0
+i: 98  y: 0
+i: 99  y: 0
+i: 100  y: 0
+i: 101  y: 0
+---- GMSB for signal --- 
+Info in <TCanvas::MakeDefCanvas>:  created default TCanvas with name c1
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+TH1.Print Name  = h2_gmsb, Entries= 2682, Total sum= 0.596324
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(hGMSB): fit range of variable met expanded to nearest bin boundaries: [30,600] --> [30,600]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(hGMSB): fit range of variable time expanded to nearest bin boundaries: [0,25] --> [0,25]
+signal pdf
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+TH1.Print Name  = h2_ttbar, Entries= 323, Total sum= 94
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(hTTBAR): fit range of variable met expanded to nearest bin boundaries: [30,600] --> [30,600]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(hTTBAR): fit range of variable time expanded to nearest bin boundaries: [0,25] --> [0,25]
+TH1.Print Name  = methistttbar__met, Entries= 100, Total sum= 94.0009
+i: 0  y: 0
+i: 1  y: 0
+i: 2  y: 0
+i: 3  y: 0
+i: 4  y: 0
+i: 5  y: 0
+i: 6  y: 90
+i: 7  y: 0
+i: 8  y: 0
+i: 9  y: 0
+i: 10  y: 0
+i: 11  y: 0
+i: 12  y: 0
+i: 13  y: 0
+i: 14  y: 0
+i: 15  y: 0
+i: 16  y: 3.00009
+i: 17  y: 0
+i: 18  y: 0
+i: 19  y: 0
+i: 20  y: 0
+i: 21  y: 0
+i: 22  y: 0
+i: 23  y: 0
+i: 24  y: 0
+i: 25  y: 0
+i: 26  y: 0.0001
+i: 27  y: 0
+i: 28  y: 0
+i: 29  y: 0
+i: 30  y: 0
+i: 31  y: 0
+i: 32  y: 0
+i: 33  y: 0
+i: 34  y: 0
+i: 35  y: 0
+i: 36  y: 1.00009
+i: 37  y: 0
+i: 38  y: 0
+i: 39  y: 0
+i: 40  y: 0
+i: 41  y: 0
+i: 42  y: 0
+i: 43  y: 0
+i: 44  y: 0
+i: 45  y: 0
+i: 46  y: 0.0001
+i: 47  y: 0
+i: 48  y: 0
+i: 49  y: 0
+i: 50  y: 0
+i: 51  y: 0
+i: 52  y: 0
+i: 53  y: 0
+i: 54  y: 0
+i: 55  y: 0
+i: 56  y: 0.0001
+i: 57  y: 0
+i: 58  y: 0
+i: 59  y: 0
+i: 60  y: 0
+i: 61  y: 0
+i: 62  y: 0
+i: 63  y: 0
+i: 64  y: 0
+i: 65  y: 0
+i: 66  y: 0.0001
+i: 67  y: 0
+i: 68  y: 0
+i: 69  y: 0
+i: 70  y: 0
+i: 71  y: 0
+i: 72  y: 0
+i: 73  y: 0
+i: 74  y: 0
+i: 75  y: 0
+i: 76  y: 0.0001
+i: 77  y: 0
+i: 78  y: 0
+i: 79  y: 0
+i: 80  y: 0
+i: 81  y: 0
+i: 82  y: 0
+i: 83  y: 0
+i: 84  y: 0
+i: 85  y: 0
+i: 86  y: 0.0001
+i: 87  y: 0
+i: 88  y: 0
+i: 89  y: 0
+i: 90  y: 0
+i: 91  y: 0
+i: 92  y: 0
+i: 93  y: 0
+i: 94  y: 0
+i: 95  y: 0
+i: 96  y: 0.0001
+i: 97  y: 0
+i: 98  y: 0
+i: 99  y: 0
+i: 100  y: 0
+i: 101  y: 0
+Warning in <TH2D::Sumw2>: Sum of squares of weights structure already created
+TH1.Print Name  = h2_PJ, Entries= 14149, Total sum= 5922
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(hPJ): fit range of variable met expanded to nearest bin boundaries: [30,600] --> [30,600]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(hPJ): fit range of variable time expanded to nearest bin boundaries: [0,25] --> [0,25]
+TH1.Print Name  = methistpj__met, Entries= 100, Total sum= 5922
+i: 0  y: 0
+i: 1  y: 0
+i: 2  y: 0
+i: 3  y: 0
+i: 4  y: 0
+i: 5  y: 0
+i: 6  y: 5731
+i: 7  y: 0
+i: 8  y: 0
+i: 9  y: 0
+i: 10  y: 0
+i: 11  y: 0
+i: 12  y: 0
+i: 13  y: 0
+i: 14  y: 0
+i: 15  y: 0
+i: 16  y: 155
+i: 17  y: 0
+i: 18  y: 0
+i: 19  y: 0
+i: 20  y: 0
+i: 21  y: 0
+i: 22  y: 0
+i: 23  y: 0
+i: 24  y: 0
+i: 25  y: 0
+i: 26  y: 26.0001
+i: 27  y: 0
+i: 28  y: 0
+i: 29  y: 0
+i: 30  y: 0
+i: 31  y: 0
+i: 32  y: 0
+i: 33  y: 0
+i: 34  y: 0
+i: 35  y: 0
+i: 36  y: 5.00009
+i: 37  y: 0
+i: 38  y: 0
+i: 39  y: 0
+i: 40  y: 0
+i: 41  y: 0
+i: 42  y: 0
+i: 43  y: 0
+i: 44  y: 0
+i: 45  y: 0
+i: 46  y: 3.00009
+i: 47  y: 0
+i: 48  y: 0
+i: 49  y: 0
+i: 50  y: 0
+i: 51  y: 0
+i: 52  y: 0
+i: 53  y: 0
+i: 54  y: 0
+i: 55  y: 0
+i: 56  y: 2.00009
+i: 57  y: 0
+i: 58  y: 0
+i: 59  y: 0
+i: 60  y: 0
+i: 61  y: 0
+i: 62  y: 0
+i: 63  y: 0
+i: 64  y: 0
+i: 65  y: 0
+i: 66  y: 0.0001
+i: 67  y: 0
+i: 68  y: 0
+i: 69  y: 0
+i: 70  y: 0
+i: 71  y: 0
+i: 72  y: 0
+i: 73  y: 0
+i: 74  y: 0
+i: 75  y: 0
+i: 76  y: 0.0001
+i: 77  y: 0
+i: 78  y: 0
+i: 79  y: 0
+i: 80  y: 0
+i: 81  y: 0
+i: 82  y: 0
+i: 83  y: 0
+i: 84  y: 0
+i: 85  y: 0
+i: 86  y: 0.0001
+i: 87  y: 0
+i: 88  y: 0
+i: 89  y: 0
+i: 90  y: 0
+i: 91  y: 0
+i: 92  y: 0
+i: 93  y: 0
+i: 94  y: 0
+i: 95  y: 0
+i: 96  y: 0.0001
+i: 97  y: 0
+i: 98  y: 0
+i: 99  y: 0
+i: 100  y: 0
+i: 101  y: 0
+GMSB: 9192.205127   QCD: 5922.000900     PJ: 0.000000
+DATA 19215.000920
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(hFakeMET): fit range of variable met expanded to nearest bin boundaries: [30,600] --> [30,600]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(hFakeMET): fit range of variable time expanded to nearest bin boundaries: [0,25] --> [0,25]
+TH1.Print Name  = methistFakeMET__met, Entries= 100, Total sum= 5922
+i: 0  y: 0
+i: 1  y: 0
+i: 2  y: 0
+i: 3  y: 0
+i: 4  y: 0
+i: 5  y: 0
+i: 6  y: 5731
+i: 7  y: 0
+i: 8  y: 0
+i: 9  y: 0
+i: 10  y: 0
+i: 11  y: 0
+i: 12  y: 0
+i: 13  y: 0
+i: 14  y: 0
+i: 15  y: 0
+i: 16  y: 155
+i: 17  y: 0
+i: 18  y: 0
+i: 19  y: 0
+i: 20  y: 0
+i: 21  y: 0
+i: 22  y: 0
+i: 23  y: 0
+i: 24  y: 0
+i: 25  y: 0
+i: 26  y: 26.0001
+i: 27  y: 0
+i: 28  y: 0
+i: 29  y: 0
+i: 30  y: 0
+i: 31  y: 0
+i: 32  y: 0
+i: 33  y: 0
+i: 34  y: 0
+i: 35  y: 0
+i: 36  y: 5.00009
+i: 37  y: 0
+i: 38  y: 0
+i: 39  y: 0
+i: 40  y: 0
+i: 41  y: 0
+i: 42  y: 0
+i: 43  y: 0
+i: 44  y: 0
+i: 45  y: 0
+i: 46  y: 3.00009
+i: 47  y: 0
+i: 48  y: 0
+i: 49  y: 0
+i: 50  y: 0
+i: 51  y: 0
+i: 52  y: 0
+i: 53  y: 0
+i: 54  y: 0
+i: 55  y: 0
+i: 56  y: 2.00009
+i: 57  y: 0
+i: 58  y: 0
+i: 59  y: 0
+i: 60  y: 0
+i: 61  y: 0
+i: 62  y: 0
+i: 63  y: 0
+i: 64  y: 0
+i: 65  y: 0
+i: 66  y: 0.0001
+i: 67  y: 0
+i: 68  y: 0
+i: 69  y: 0
+i: 70  y: 0
+i: 71  y: 0
+i: 72  y: 0
+i: 73  y: 0
+i: 74  y: 0
+i: 75  y: 0
+i: 76  y: 0.0001
+i: 77  y: 0
+i: 78  y: 0
+i: 79  y: 0
+i: 80  y: 0
+i: 81  y: 0
+i: 82  y: 0
+i: 83  y: 0
+i: 84  y: 0
+i: 85  y: 0
+i: 86  y: 0.0001
+i: 87  y: 0
+i: 88  y: 0
+i: 89  y: 0
+i: 90  y: 0
+i: 91  y: 0
+i: 92  y: 0
+i: 93  y: 0
+i: 94  y: 0
+i: 95  y: 0
+i: 96  y: 0.0001
+i: 97  y: 0
+i: 98  y: 0
+i: 99  y: 0
+i: 100  y: 0
+i: 101  y: 0
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(h_allMC): fit range of variable met expanded to nearest bin boundaries: [30,600] --> [30,600]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(h_allMC): fit range of variable time expanded to nearest bin boundaries: [0,25] --> [0,25]
+ **********
+ **   13 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ MINUIT WARNING IN MIGrad    
+ ============== VARIABLE2 IS AT ITS UPPER ALLOWED LIMIT.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-64038.4 FROM MIGRAD    STATUS=INITIATE       21 CALLS          22 TOTAL
+                     EDM= unknown      STRATEGY= 1      NO ERROR MATRIX       
+  EXT PARAMETER               CURRENT GUESS       STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     5.92200e+03   2.96050e+03   0.00000e+00  -1.45241e+05
+   2  xsection     5.27148e-01   1.00000e+00  -2.67631e+00  -4.41452e+01
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71940 FROM MIGRAD    STATUS=CONVERGED      64 CALLS          65 TOTAL
+                     EDM=3.18649e-06    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85623e+04   1.38643e+02   1.90203e-04   4.74374e-01
+   2  xsection     1.66496e-02   1.14821e-02   5.21789e-03   6.13496e-02
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  2    ERR DEF=0.5
+  1.922e+04 -3.502e-02 
+ -3.502e-02  1.319e-04 
+ PARAMETER  CORRELATION COEFFICIENTS  
+       NO.  GLOBAL      1      2
+        1  0.02200   1.000 -0.022
+        2  0.02200  -0.022  1.000
+ **********
+ **   18 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71940 FROM MIGRAD    STATUS=INITIATE        4 CALLS          69 TOTAL
+                     EDM=1.17705e-06    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85623e+04   1.38643e+02   1.90203e-04   4.55989e-01
+   2  xsection     1.66496e-02   1.14821e-02   5.21789e-03   5.22387e-02
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71940 FROM MIGRAD    STATUS=CONVERGED      11 CALLS          76 TOTAL
+                     EDM=1.2963e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY  19.9 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85623e+04   1.40251e+02  -5.22008e-07  -7.44458e-02
+   2  xsection     1.66300e-02   8.55296e-03  -4.79639e-05  -5.71599e-02
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  2    ERR DEF=0.5
+  1.967e+04 -2.551e-02 
+ -2.551e-02  7.316e-05 
+ PARAMETER  CORRELATION COEFFICIENTS  
+       NO.  GLOBAL      1      2
+        1  0.02127   1.000 -0.021
+        2  0.02127  -0.021  1.000
+ **********
+ **   23 **HESSE        1000
+ **********
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71940 FROM HESSE     STATUS=OK             14 CALLS          90 TOTAL
+                     EDM=3.48173e-09    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                INTERNAL      INTERNAL  
+  NO.   NAME      VALUE            ERROR       STEP SIZE       VALUE   
+   1  nFakeMET     1.85623e+04   1.38643e+02   1.90209e-04  -1.29747e+00
+   2  xsection     1.66300e-02   1.14726e-02   5.21783e-03  -1.48921e+00
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  2    ERR DEF=0.5
+  1.922e+04 -3.497e-02 
+ -3.497e-02  1.317e-04 
+ PARAMETER  CORRELATION COEFFICIENTS  
+       NO.  GLOBAL      1      2
+        1  0.02198   1.000 -0.022
+        2  0.02198  -0.022  1.000
+ **********
+ **   28 **MINOS        1000
+ **********
+ MINUIT WARNING IN MIGRAD
+ ============== STARTING MATRIX NOT POS-DEFINITE.
+                         NEGATIVE MINOS ERROR NOT CALCULATED FOR PARAMETER 1
+ FCN=-71940 FROM MINOS     STATUS=PROBLEMS       59 CALLS         149 TOTAL
+                     EDM=3.48173e-09    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                  PARABOLIC         MINOS ERRORS        
+  NO.   NAME      VALUE            ERROR      NEGATIVE      POSITIVE   
+   1  nFakeMET     1.85623e+04   1.38643e+02                 1.38982e+02
+   2  xsection     1.66300e-02   1.14726e-02  -9.06556e-03   1.40610e-02
+                               ERR DEF= 0.5
+MINOS: status = 0
+
+  RooFitResult: minimized FCN value: -71940, estimated distance to minimum: 3.48173e-09
+                covariance matrix quality: Full, accurate covariance matrix
+                Status : MIGRAD=0 MIGRAD=0 HESSE=0 MINOS=0 
+
+    Constant Parameter    Value     
+  --------------------  ------------
+                  lumi    1.5401e+04
+                 nWenu    5.6400e+02
+                nttbar    9.4001e+01
+                sigAcc    1.0000e+00
+                sigEff    2.5000e-02
+
+    Floating Parameter  InitialValue    FinalValue (+HiError,-LoError)    GblCorr.
+  --------------------  ------------  ----------------------------------  --------
+              nFakeMET    5.9220e+03    1.8562e+04 (+1.39e+02,--0.00e+00)  <none>
+              xsection    1.0000e+01    1.6630e-02 (+1.41e-02,-9.07e-03)  <none>
+
+Fitted signal yield: 6.40302
+[#1] INFO:InputArguments -- RooAbsData::plotOn(h_allDATA) INFO: dataset has non-integer weights, auto-selecting SumW2 errors instead of Poisson errors
+[#1] INFO:Plotting -- RooAbsReal::plotOn(model) plot on met integrates over variables (time)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(model_Int[time]_Norm[met,time]) using numeric integrator RooIntegrator1D to calculate Int(time)
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(model) directly selected PDF components: (signal)
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(model) indirectly selected PDF components: ()
+[#1] INFO:Plotting -- RooAbsReal::plotOn(model) plot on met integrates over variables (time)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(model_Int[time]_Norm[met,time]) using numeric integrator RooIntegrator1D to calculate Int(time)
+[#1] INFO:Plotting -- RooAbsReal::plotOn(bkgfix) plot on met integrates over variables (time)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(bkgfix_Int[time]_Norm[met,time]) using numeric integrator RooIntegrator1D to calculate Int(time)
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(model) directly selected PDF components: (signal)
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(model) indirectly selected PDF components: ()
+[#1] INFO:Plotting -- RooAbsReal::plotOn(model) plot on met integrates over variables (time)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(model_Int[time]_Norm[met,time]) using numeric integrator RooIntegrator1D to calculate Int(time)
+[#1] INFO:InputArguments -- RooAbsData::plotOn(h_allDATA) INFO: dataset has non-integer weights, auto-selecting SumW2 errors instead of Poisson errors
+[#1] INFO:Plotting -- RooAbsReal::plotOn(model) plot on time integrates over variables (met)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(model_Int[met]_Norm[met,time]) using numeric integrator RooIntegrator1D to calculate Int(met)
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(model) directly selected PDF components: (signal)
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(model) indirectly selected PDF components: ()
+[#1] INFO:Plotting -- RooAbsReal::plotOn(model) plot on time integrates over variables (met)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(model_Int[met]_Norm[met,time]) using numeric integrator RooIntegrator1D to calculate Int(met)
+[#1] INFO:Plotting -- RooAbsReal::plotOn(bkgfix) plot on time integrates over variables (met)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(bkgfix_Int[met]_Norm[met,time]) using numeric integrator RooIntegrator1D to calculate Int(met)
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(model) directly selected PDF components: (signal)
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(model) indirectly selected PDF components: ()
+[#1] INFO:Plotting -- RooAbsReal::plotOn(model) plot on time integrates over variables (met)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(model_Int[met]_Norm[met,time]) using numeric integrator RooIntegrator1D to calculate Int(met)
+chisq probability = 0
+float params = 2
+==== start scan of LL vs. x section
+Scanning xsection
+Scan interval [-0.0407331:0.0739932]
+ **********
+ **   35 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71927.6 FROM MIGRAD    STATUS=INITIATE        2 CALLS         152 TOTAL
+                     EDM=0.00233078    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85623e+04   1.38609e+02   4.33051e-07  -3.32413e+01
+   2  xsection     9.53674e-06     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71927.6 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         162 TOTAL
+                     EDM=8.3525e-10    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85670e+04   1.38612e+02   1.90161e-04   2.81447e-02
+   2  xsection     9.53674e-06     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **   41 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         165 TOTAL
+                     EDM=9.10776e-05    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85670e+04   1.38612e+02   1.90161e-04  -6.57172e+00
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         175 TOTAL
+                     EDM=9.80515e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   1.38616e+02   1.90167e-04   3.04939e-03
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **   46 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         177 TOTAL
+                     EDM=1.47728e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   1.38616e+02   1.90167e-04   1.67391e-05
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       5 CALLS         180 TOTAL
+                     EDM=1.36561e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00  -1.76506e-11  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **   51 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         182 TOTAL
+                     EDM=1.02458e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00  -1.76506e-11  -1.60942e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         183 TOTAL
+                     EDM=1.02458e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60942e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **   56 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         185 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         186 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **   61 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         188 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         189 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **   66 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         191 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         192 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **   71 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         194 TOTAL
+                     EDM=1.02455e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60939e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         195 TOTAL
+                     EDM=1.02455e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60939e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **   76 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         197 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         198 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **   81 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         200 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         201 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **   86 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         203 TOTAL
+                     EDM=1.02455e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60939e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         204 TOTAL
+                     EDM=1.02455e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60939e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **   91 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         206 TOTAL
+                     EDM=1.02455e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60939e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         207 TOTAL
+                     EDM=1.02455e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60939e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **   96 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         209 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         210 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  101 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         212 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         213 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  106 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         215 TOTAL
+                     EDM=1.02458e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60942e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         216 TOTAL
+                     EDM=1.02458e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60942e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  111 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         218 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         219 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  116 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         221 TOTAL
+                     EDM=1.02458e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60942e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         222 TOTAL
+                     EDM=1.02458e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60942e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  121 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         224 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         225 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  126 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         227 TOTAL
+                     EDM=1.02455e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60939e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         228 TOTAL
+                     EDM=1.02455e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60939e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  131 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         230 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         231 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  136 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         233 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         234 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  141 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         236 TOTAL
+                     EDM=1.02455e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         237 TOTAL
+                     EDM=1.02455e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  146 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         239 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         240 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  151 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         242 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         243 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  156 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         245 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         246 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  161 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         248 TOTAL
+                     EDM=1.02455e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         249 TOTAL
+                     EDM=1.02455e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  166 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         251 TOTAL
+                     EDM=1.02458e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60942e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         252 TOTAL
+                     EDM=1.02458e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60942e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  171 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         254 TOTAL
+                     EDM=1.02458e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60942e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         255 TOTAL
+                     EDM=1.02458e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60942e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  176 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         257 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         258 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  181 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         260 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         261 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  186 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         263 TOTAL
+                     EDM=1.02458e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60942e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         264 TOTAL
+                     EDM=1.02458e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60942e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  191 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         266 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         267 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  196 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         269 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         270 TOTAL
+                     EDM=1.02457e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60941e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  201 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         272 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         273 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  206 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         275 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         276 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  211 **MIGRAD        1000           1
+ **********
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71924.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         278 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ MIGRAD FAILS TO FIND IMPROVEMENT
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ FCN=-71924.9 FROM MIGRAD    STATUS=CONVERGED       3 CALLS         279 TOTAL
+                     EDM=1.02456e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00  -1.60940e-02
+   2  xsection     0.00000e+00     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.996e+01 
+ **********
+ **  217 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71935.2 FROM MIGRAD    STATUS=INITIATE        2 CALLS         282 TOTAL
+                     EDM=2.14335e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   4.46809e+00   0.00000e+00   9.89030e+00
+   2  xsection     5.68355e-04     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71935.2 FROM MIGRAD    STATUS=CONVERGED      10 CALLS         290 TOTAL
+                     EDM=0.000103316    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   1.38618e+02   1.90185e-04   9.89842e+00
+   2  xsection     5.68355e-04     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  223 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71937.2 FROM MIGRAD    STATUS=INITIATE        2 CALLS         293 TOTAL
+                     EDM=0.000308156    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85679e+04   1.38618e+02   1.90185e-04   1.20879e+01
+   2  xsection     1.71562e-03     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71937.2 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         303 TOTAL
+                     EDM=3.88633e-10    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85662e+04   1.38610e+02   1.90190e-04   1.91980e-02
+   2  xsection     1.71562e-03     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  229 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71938.1 FROM MIGRAD    STATUS=INITIATE        2 CALLS         306 TOTAL
+                     EDM=1.01085e-05    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85662e+04   1.38610e+02   1.90190e-04   2.18934e+00
+   2  xsection     2.86288e-03     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71938.1 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         316 TOTAL
+                     EDM=9.98221e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85659e+04   1.38610e+02   1.90189e-04   3.07678e-03
+   2  xsection     2.86288e-03     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  235 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71938.7 FROM MIGRAD    STATUS=INITIATE        2 CALLS         319 TOTAL
+                     EDM=9.85966e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85659e+04   1.38610e+02   1.90189e-04   2.16221e+00
+   2  xsection     4.01014e-03     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71938.7 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         329 TOTAL
+                     EDM=9.79683e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85656e+04   1.38610e+02   1.90191e-04   3.04805e-03
+   2  xsection     4.01014e-03     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  241 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939 FROM MIGRAD    STATUS=INITIATE        2 CALLS         332 TOTAL
+                     EDM=9.78385e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85656e+04   1.38610e+02   1.90191e-04   2.15387e+00
+   2  xsection     5.15741e-03     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         342 TOTAL
+                     EDM=9.85219e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85653e+04   1.38610e+02   1.90193e-04   3.05662e-03
+   2  xsection     5.15741e-03     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  247 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.3 FROM MIGRAD    STATUS=INITIATE        2 CALLS         345 TOTAL
+                     EDM=9.71563e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85653e+04   1.38610e+02   1.90193e-04   2.14633e+00
+   2  xsection     6.30467e-03     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.3 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         355 TOTAL
+                     EDM=9.73536e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85650e+04   1.38610e+02   1.90195e-04   3.03842e-03
+   2  xsection     6.30467e-03     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  253 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.5 FROM MIGRAD    STATUS=INITIATE        2 CALLS         358 TOTAL
+                     EDM=9.65069e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85650e+04   1.38610e+02   1.90195e-04   2.13913e+00
+   2  xsection     7.45193e-03     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.5 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         368 TOTAL
+                     EDM=1.0119e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85647e+04   1.38610e+02   1.90197e-04   3.09769e-03
+   2  xsection     7.45193e-03     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  259 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.7 FROM MIGRAD    STATUS=INITIATE        2 CALLS         371 TOTAL
+                     EDM=9.58766e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85647e+04   1.38610e+02   1.90197e-04   2.13211e+00
+   2  xsection     8.59920e-03     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.7 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         381 TOTAL
+                     EDM=9.93242e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85644e+04   1.38610e+02   1.90198e-04   3.06897e-03
+   2  xsection     8.59920e-03     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  265 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.8 FROM MIGRAD    STATUS=INITIATE        2 CALLS         384 TOTAL
+                     EDM=9.52612e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85644e+04   1.38610e+02   1.90198e-04   2.12524e+00
+   2  xsection     9.74646e-03     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.8 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         394 TOTAL
+                     EDM=1.01628e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85641e+04   1.38610e+02   1.90200e-04   3.10433e-03
+   2  xsection     9.74646e-03     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  271 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         397 TOTAL
+                     EDM=9.4656e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85641e+04   1.38610e+02   1.90200e-04   2.11846e+00
+   2  xsection     1.08937e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.9 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         407 TOTAL
+                     EDM=9.98818e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85638e+04   1.38610e+02   1.90202e-04   3.07753e-03
+   2  xsection     1.08937e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  277 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         410 TOTAL
+                     EDM=9.4061e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85638e+04   1.38610e+02   1.90202e-04   2.11178e+00
+   2  xsection     1.20410e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.9 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         420 TOTAL
+                     EDM=1.0069e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85635e+04   1.38610e+02   1.90203e-04   3.08994e-03
+   2  xsection     1.20410e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  283 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71940 FROM MIGRAD    STATUS=INITIATE        2 CALLS         423 TOTAL
+                     EDM=9.34746e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85635e+04   1.38610e+02   1.90203e-04   2.10517e+00
+   2  xsection     1.31883e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71940 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         433 TOTAL
+                     EDM=1.00753e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85632e+04   1.38610e+02   1.90205e-04   3.09087e-03
+   2  xsection     1.31883e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  289 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71940 FROM MIGRAD    STATUS=INITIATE        2 CALLS         436 TOTAL
+                     EDM=9.28961e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85632e+04   1.38610e+02   1.90205e-04   2.09863e+00
+   2  xsection     1.43355e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71940 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         446 TOTAL
+                     EDM=1.01002e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85629e+04   1.38610e+02   1.90206e-04   3.09467e-03
+   2  xsection     1.43355e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  295 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71940 FROM MIGRAD    STATUS=INITIATE        2 CALLS         449 TOTAL
+                     EDM=9.23257e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85629e+04   1.38610e+02   1.90206e-04   2.09216e+00
+   2  xsection     1.54828e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71940 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         459 TOTAL
+                     EDM=1.00628e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85626e+04   1.38610e+02   1.90208e-04   3.08891e-03
+   2  xsection     1.54828e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  301 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71940 FROM MIGRAD    STATUS=INITIATE        2 CALLS         462 TOTAL
+                     EDM=9.17614e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85626e+04   1.38610e+02   1.90208e-04   2.08574e+00
+   2  xsection     1.66300e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71940 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         472 TOTAL
+                     EDM=9.88908e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85623e+04   1.38610e+02   1.90209e-04   3.06211e-03
+   2  xsection     1.66300e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  307 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71940 FROM MIGRAD    STATUS=INITIATE        2 CALLS         475 TOTAL
+                     EDM=9.12053e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85623e+04   1.38610e+02   1.90209e-04   2.07940e+00
+   2  xsection     1.77773e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71940 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         485 TOTAL
+                     EDM=9.91381e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85620e+04   1.38609e+02   1.90210e-04   3.06591e-03
+   2  xsection     1.77773e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  313 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71940 FROM MIGRAD    STATUS=INITIATE        2 CALLS         488 TOTAL
+                     EDM=9.06551e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85620e+04   1.38609e+02   1.90210e-04   2.07310e+00
+   2  xsection     1.89246e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71940 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         498 TOTAL
+                     EDM=1.00006e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85617e+04   1.38609e+02   1.90212e-04   3.07927e-03
+   2  xsection     1.89246e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  319 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71940 FROM MIGRAD    STATUS=INITIATE        2 CALLS         501 TOTAL
+                     EDM=9.01121e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85617e+04   1.38609e+02   1.90212e-04   2.06687e+00
+   2  xsection     2.00718e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71940 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         511 TOTAL
+                     EDM=9.87674e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85614e+04   1.38609e+02   1.90213e-04   3.06013e-03
+   2  xsection     2.00718e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  325 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71940 FROM MIGRAD    STATUS=INITIATE        2 CALLS         514 TOTAL
+                     EDM=8.9576e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85614e+04   1.38609e+02   1.90213e-04   2.06069e+00
+   2  xsection     2.12191e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71940 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         524 TOTAL
+                     EDM=1.00379e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85611e+04   1.38609e+02   1.90215e-04   3.08497e-03
+   2  xsection     2.12191e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  331 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         527 TOTAL
+                     EDM=8.90455e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85611e+04   1.38609e+02   1.90215e-04   2.05457e+00
+   2  xsection     2.23664e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.9 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         537 TOTAL
+                     EDM=9.83974e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85608e+04   1.38609e+02   1.90216e-04   3.05435e-03
+   2  xsection     2.23664e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  337 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         540 TOTAL
+                     EDM=8.85214e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85608e+04   1.38609e+02   1.90216e-04   2.04850e+00
+   2  xsection     2.35136e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.9 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         550 TOTAL
+                     EDM=9.72303e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85605e+04   1.38609e+02   1.90217e-04   3.03616e-03
+   2  xsection     2.35136e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  343 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.8 FROM MIGRAD    STATUS=INITIATE        2 CALLS         553 TOTAL
+                     EDM=8.80037e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85605e+04   1.38609e+02   1.90217e-04   2.04248e+00
+   2  xsection     2.46609e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.8 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         563 TOTAL
+                     EDM=9.86442e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85602e+04   1.38609e+02   1.90219e-04   3.05813e-03
+   2  xsection     2.46609e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  349 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.8 FROM MIGRAD    STATUS=INITIATE        2 CALLS         566 TOTAL
+                     EDM=8.74914e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85602e+04   1.38609e+02   1.90219e-04   2.03652e+00
+   2  xsection     2.58081e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.8 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         576 TOTAL
+                     EDM=9.80283e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85599e+04   1.38609e+02   1.90220e-04   3.04854e-03
+   2  xsection     2.58081e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  355 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.7 FROM MIGRAD    STATUS=INITIATE        2 CALLS         579 TOTAL
+                     EDM=8.69867e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85599e+04   1.38609e+02   1.90220e-04   2.03062e+00
+   2  xsection     2.69554e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.7 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         589 TOTAL
+                     EDM=9.93241e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85597e+04   1.38609e+02   1.90221e-04   3.06861e-03
+   2  xsection     2.69554e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  361 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.7 FROM MIGRAD    STATUS=INITIATE        2 CALLS         592 TOTAL
+                     EDM=8.6485e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85597e+04   1.38609e+02   1.90221e-04   2.02474e+00
+   2  xsection     2.81027e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.7 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         602 TOTAL
+                     EDM=9.88913e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85594e+04   1.38609e+02   1.90222e-04   3.06189e-03
+   2  xsection     2.81027e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  367 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.6 FROM MIGRAD    STATUS=INITIATE        2 CALLS         605 TOTAL
+                     EDM=8.59917e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85594e+04   1.38609e+02   1.90222e-04   2.01894e+00
+   2  xsection     2.92499e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.6 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         615 TOTAL
+                     EDM=9.75986e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85591e+04   1.38609e+02   1.90224e-04   3.04179e-03
+   2  xsection     2.92499e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  373 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.5 FROM MIGRAD    STATUS=INITIATE        2 CALLS         618 TOTAL
+                     EDM=8.5502e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85591e+04   1.38609e+02   1.90224e-04   2.01317e+00
+   2  xsection     3.03972e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.5 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         628 TOTAL
+                     EDM=1.0038e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85588e+04   1.38609e+02   1.90225e-04   3.08480e-03
+   2  xsection     3.03972e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  379 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.5 FROM MIGRAD    STATUS=INITIATE        2 CALLS         631 TOTAL
+                     EDM=8.50192e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85588e+04   1.38609e+02   1.90225e-04   2.00747e+00
+   2  xsection     3.15445e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.5 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         641 TOTAL
+                     EDM=1.00007e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85585e+04   1.38609e+02   1.90226e-04   3.07904e-03
+   2  xsection     3.15445e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  385 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.4 FROM MIGRAD    STATUS=INITIATE        2 CALLS         644 TOTAL
+                     EDM=8.45413e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85585e+04   1.38609e+02   1.90226e-04   2.00180e+00
+   2  xsection     3.26917e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.4 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         654 TOTAL
+                     EDM=1.0119e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85582e+04   1.38609e+02   1.90227e-04   3.09719e-03
+   2  xsection     3.26917e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  391 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.3 FROM MIGRAD    STATUS=INITIATE        2 CALLS         657 TOTAL
+                     EDM=8.40686e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85582e+04   1.38609e+02   1.90227e-04   1.99618e+00
+   2  xsection     3.38390e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.3 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         667 TOTAL
+                     EDM=9.68028e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85579e+04   1.38609e+02   1.90229e-04   3.02928e-03
+   2  xsection     3.38390e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  397 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.3 FROM MIGRAD    STATUS=INITIATE        2 CALLS         670 TOTAL
+                     EDM=8.3601e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85579e+04   1.38609e+02   1.90229e-04   1.99061e+00
+   2  xsection     3.49863e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.3 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         680 TOTAL
+                     EDM=9.96966e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85577e+04   1.38608e+02   1.90230e-04   3.07420e-03
+   2  xsection     3.49863e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  403 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.2 FROM MIGRAD    STATUS=INITIATE        2 CALLS         683 TOTAL
+                     EDM=8.31388e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85577e+04   1.38608e+02   1.90230e-04   1.98509e+00
+   2  xsection     3.61335e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.2 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         693 TOTAL
+                     EDM=9.89538e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85574e+04   1.38608e+02   1.90231e-04   3.06271e-03
+   2  xsection     3.61335e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  409 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939.1 FROM MIGRAD    STATUS=INITIATE        2 CALLS         696 TOTAL
+                     EDM=8.26816e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85574e+04   1.38608e+02   1.90231e-04   1.97961e+00
+   2  xsection     3.72808e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939.1 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         706 TOTAL
+                     EDM=9.81523e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85571e+04   1.38608e+02   1.90232e-04   3.05026e-03
+   2  xsection     3.72808e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  415 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71939 FROM MIGRAD    STATUS=INITIATE        2 CALLS         709 TOTAL
+                     EDM=8.223e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85571e+04   1.38608e+02   1.90232e-04   1.97418e+00
+   2  xsection     3.84280e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71939 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         719 TOTAL
+                     EDM=9.74767e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85568e+04   1.38608e+02   1.90233e-04   3.03972e-03
+   2  xsection     3.84280e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  421 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71938.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         722 TOTAL
+                     EDM=8.1782e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85568e+04   1.38608e+02   1.90233e-04   1.96878e+00
+   2  xsection     3.95753e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71938.9 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         732 TOTAL
+                     EDM=1.00318e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85565e+04   1.38608e+02   1.90234e-04   3.08369e-03
+   2  xsection     3.95753e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  427 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71938.8 FROM MIGRAD    STATUS=INITIATE        2 CALLS         735 TOTAL
+                     EDM=8.134e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85565e+04   1.38608e+02   1.90234e-04   1.96344e+00
+   2  xsection     4.07226e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71938.8 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         745 TOTAL
+                     EDM=9.93254e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85562e+04   1.38608e+02   1.90236e-04   3.06837e-03
+   2  xsection     4.07226e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  433 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71938.7 FROM MIGRAD    STATUS=INITIATE        2 CALLS         748 TOTAL
+                     EDM=8.0902e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85562e+04   1.38608e+02   1.90236e-04   1.95813e+00
+   2  xsection     4.18698e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71938.7 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         758 TOTAL
+                     EDM=9.88926e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85560e+04   1.38608e+02   1.90237e-04   3.06166e-03
+   2  xsection     4.18698e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  439 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71938.6 FROM MIGRAD    STATUS=INITIATE        2 CALLS         761 TOTAL
+                     EDM=8.04696e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85560e+04   1.38608e+02   1.90237e-04   1.95288e+00
+   2  xsection     4.30171e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71938.6 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         771 TOTAL
+                     EDM=1.02005e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85557e+04   1.38608e+02   1.90238e-04   3.10945e-03
+   2  xsection     4.30171e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  445 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71938.5 FROM MIGRAD    STATUS=INITIATE        2 CALLS         774 TOTAL
+                     EDM=8.00413e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85557e+04   1.38608e+02   1.90238e-04   1.94767e+00
+   2  xsection     4.41644e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71938.5 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         784 TOTAL
+                     EDM=1.01755e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85554e+04   1.38608e+02   1.90239e-04   3.10561e-03
+   2  xsection     4.41644e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  451 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71938.4 FROM MIGRAD    STATUS=INITIATE        2 CALLS         787 TOTAL
+                     EDM=7.96173e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85554e+04   1.38608e+02   1.90239e-04   1.94249e+00
+   2  xsection     4.53116e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71938.4 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         797 TOTAL
+                     EDM=1.00942e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85551e+04   1.38608e+02   1.90240e-04   3.09316e-03
+   2  xsection     4.53116e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  457 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71938.3 FROM MIGRAD    STATUS=INITIATE        2 CALLS         800 TOTAL
+                     EDM=7.91984e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85551e+04   1.38608e+02   1.90240e-04   1.93736e+00
+   2  xsection     4.64589e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71938.3 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         810 TOTAL
+                     EDM=9.64989e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85549e+04   1.38607e+02   1.90241e-04   3.02430e-03
+   2  xsection     4.64589e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  463 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71938.2 FROM MIGRAD    STATUS=INITIATE        2 CALLS         813 TOTAL
+                     EDM=7.87835e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85549e+04   1.38607e+02   1.90241e-04   1.93226e+00
+   2  xsection     4.76062e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71938.2 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         823 TOTAL
+                     EDM=9.945e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85546e+04   1.38607e+02   1.90242e-04   3.07018e-03
+   2  xsection     4.76062e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  469 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71938.1 FROM MIGRAD    STATUS=INITIATE        2 CALLS         826 TOTAL
+                     EDM=7.83728e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85546e+04   1.38607e+02   1.90242e-04   1.92721e+00
+   2  xsection     4.87534e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71938.1 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         836 TOTAL
+                     EDM=9.93264e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85543e+04   1.38607e+02   1.90243e-04   3.06825e-03
+   2  xsection     4.87534e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  475 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71938 FROM MIGRAD    STATUS=INITIATE        2 CALLS         839 TOTAL
+                     EDM=7.79667e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85543e+04   1.38607e+02   1.90243e-04   1.92219e+00
+   2  xsection     4.99007e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71938 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         849 TOTAL
+                     EDM=9.95743e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85540e+04   1.38607e+02   1.90245e-04   3.07205e-03
+   2  xsection     4.99007e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  481 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71937.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         852 TOTAL
+                     EDM=7.75648e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85540e+04   1.38607e+02   1.90245e-04   1.91722e+00
+   2  xsection     5.10479e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71937.9 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         862 TOTAL
+                     EDM=9.81539e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85538e+04   1.38607e+02   1.90246e-04   3.05004e-03
+   2  xsection     5.10479e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  487 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71937.8 FROM MIGRAD    STATUS=INITIATE        2 CALLS         865 TOTAL
+                     EDM=7.71673e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85538e+04   1.38607e+02   1.90246e-04   1.91229e+00
+   2  xsection     5.21952e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71937.8 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         875 TOTAL
+                     EDM=9.82156e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85535e+04   1.38607e+02   1.90247e-04   3.05098e-03
+   2  xsection     5.21952e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  493 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71937.7 FROM MIGRAD    STATUS=INITIATE        2 CALLS         878 TOTAL
+                     EDM=7.67734e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85535e+04   1.38607e+02   1.90247e-04   1.90739e+00
+   2  xsection     5.33425e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71937.7 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         888 TOTAL
+                     EDM=1.0032e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85532e+04   1.38607e+02   1.90248e-04   3.08347e-03
+   2  xsection     5.33425e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  499 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71937.6 FROM MIGRAD    STATUS=INITIATE        2 CALLS         891 TOTAL
+                     EDM=7.63838e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85532e+04   1.38607e+02   1.90248e-04   1.90253e+00
+   2  xsection     5.44897e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71937.6 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         901 TOTAL
+                     EDM=9.76013e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85530e+04   1.38607e+02   1.90249e-04   3.04139e-03
+   2  xsection     5.44897e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  505 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71937.5 FROM MIGRAD    STATUS=INITIATE        2 CALLS         904 TOTAL
+                     EDM=7.59982e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85530e+04   1.38607e+02   1.90249e-04   1.89771e+00
+   2  xsection     5.56370e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71937.5 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         914 TOTAL
+                     EDM=1.00569e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85527e+04   1.38607e+02   1.90250e-04   3.08726e-03
+   2  xsection     5.56370e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  511 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71937.4 FROM MIGRAD    STATUS=INITIATE        2 CALLS         917 TOTAL
+                     EDM=7.56165e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85527e+04   1.38607e+02   1.90250e-04   1.89293e+00
+   2  xsection     5.67843e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71937.4 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         927 TOTAL
+                     EDM=9.92036e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85524e+04   1.38606e+02   1.90251e-04   3.06621e-03
+   2  xsection     5.67843e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  517 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71937.3 FROM MIGRAD    STATUS=INITIATE        2 CALLS         930 TOTAL
+                     EDM=7.52388e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85524e+04   1.38606e+02   1.90251e-04   1.88818e+00
+   2  xsection     5.79315e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71937.3 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         940 TOTAL
+                     EDM=9.98855e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85521e+04   1.38606e+02   1.90252e-04   3.07671e-03
+   2  xsection     5.79315e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  523 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71937.2 FROM MIGRAD    STATUS=INITIATE        2 CALLS         943 TOTAL
+                     EDM=7.48644e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85521e+04   1.38606e+02   1.90252e-04   1.88347e+00
+   2  xsection     5.90788e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71937.2 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         953 TOTAL
+                     EDM=9.87713e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85519e+04   1.38606e+02   1.90253e-04   3.05949e-03
+   2  xsection     5.90788e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  529 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71937 FROM MIGRAD    STATUS=INITIATE        2 CALLS         956 TOTAL
+                     EDM=7.44946e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85519e+04   1.38606e+02   1.90253e-04   1.87880e+00
+   2  xsection     6.02260e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71937 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         966 TOTAL
+                     EDM=1.0001e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85516e+04   1.38606e+02   1.90254e-04   3.07859e-03
+   2  xsection     6.02260e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  535 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71936.9 FROM MIGRAD    STATUS=INITIATE        2 CALLS         969 TOTAL
+                     EDM=7.41285e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85516e+04   1.38606e+02   1.90254e-04   1.87417e+00
+   2  xsection     6.13733e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71936.9 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         979 TOTAL
+                     EDM=9.82168e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85513e+04   1.38606e+02   1.90255e-04   3.05085e-03
+   2  xsection     6.13733e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  541 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71936.8 FROM MIGRAD    STATUS=INITIATE        2 CALLS         982 TOTAL
+                     EDM=7.37653e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85513e+04   1.38606e+02   1.90255e-04   1.86956e+00
+   2  xsection     6.25206e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71936.8 FROM MIGRAD    STATUS=CONVERGED      12 CALLS         992 TOTAL
+                     EDM=9.73571e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85511e+04   1.38606e+02   1.90256e-04   3.03745e-03
+   2  xsection     6.25206e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  547 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71936.7 FROM MIGRAD    STATUS=INITIATE        2 CALLS         995 TOTAL
+                     EDM=7.34062e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85511e+04   1.38606e+02   1.90256e-04   1.86499e+00
+   2  xsection     6.36678e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71936.7 FROM MIGRAD    STATUS=CONVERGED      12 CALLS        1005 TOTAL
+                     EDM=9.71735e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85508e+04   1.38606e+02   1.90257e-04   3.03457e-03
+   2  xsection     6.36678e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  553 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71936.6 FROM MIGRAD    STATUS=INITIATE        2 CALLS        1008 TOTAL
+                     EDM=7.305e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85508e+04   1.38606e+02   1.90257e-04   1.86045e+00
+   2  xsection     6.48151e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71936.6 FROM MIGRAD    STATUS=CONVERGED      12 CALLS        1018 TOTAL
+                     EDM=1.0157e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85505e+04   1.38606e+02   1.90258e-04   3.10243e-03
+   2  xsection     6.48151e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  559 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71936.5 FROM MIGRAD    STATUS=INITIATE        2 CALLS        1021 TOTAL
+                     EDM=7.26984e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85505e+04   1.38606e+02   1.90258e-04   1.85595e+00
+   2  xsection     6.59624e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71936.5 FROM MIGRAD    STATUS=CONVERGED      12 CALLS        1031 TOTAL
+                     EDM=9.68679e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85503e+04   1.38605e+02   1.90259e-04   3.02975e-03
+   2  xsection     6.59624e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  565 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71936.3 FROM MIGRAD    STATUS=INITIATE        2 CALLS        1034 TOTAL
+                     EDM=7.23493e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85503e+04   1.38605e+02   1.90259e-04   1.85148e+00
+   2  xsection     6.71096e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71936.3 FROM MIGRAD    STATUS=CONVERGED      12 CALLS        1044 TOTAL
+                     EDM=1.00197e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85500e+04   1.38605e+02   1.90260e-04   3.08136e-03
+   2  xsection     6.71096e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  571 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71936.2 FROM MIGRAD    STATUS=INITIATE        2 CALLS        1047 TOTAL
+                     EDM=7.20044e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85500e+04   1.38605e+02   1.90260e-04   1.84705e+00
+   2  xsection     6.82569e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71936.2 FROM MIGRAD    STATUS=CONVERGED      12 CALLS        1057 TOTAL
+                     EDM=9.6746e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85498e+04   1.38605e+02   1.90261e-04   3.02781e-03
+   2  xsection     6.82569e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  577 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71936.1 FROM MIGRAD    STATUS=INITIATE        2 CALLS        1060 TOTAL
+                     EDM=7.16625e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85498e+04   1.38605e+02   1.90261e-04   1.84265e+00
+   2  xsection     6.94042e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71936.1 FROM MIGRAD    STATUS=CONVERGED      12 CALLS        1070 TOTAL
+                     EDM=9.9701e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85495e+04   1.38605e+02   1.90262e-04   3.07368e-03
+   2  xsection     6.94042e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  583 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71936 FROM MIGRAD    STATUS=INITIATE        2 CALLS        1073 TOTAL
+                     EDM=7.13236e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85495e+04   1.38605e+02   1.90262e-04   1.83828e+00
+   2  xsection     7.05514e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71936 FROM MIGRAD    STATUS=CONVERGED      12 CALLS        1083 TOTAL
+                     EDM=1.00385e-11    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85492e+04   1.38605e+02   1.90263e-04   3.08419e-03
+   2  xsection     7.05514e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  589 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71935.8 FROM MIGRAD    STATUS=INITIATE        2 CALLS        1086 TOTAL
+                     EDM=7.09888e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85492e+04   1.38605e+02   1.90263e-04   1.83395e+00
+   2  xsection     7.16987e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71935.8 FROM MIGRAD    STATUS=CONVERGED      12 CALLS        1096 TOTAL
+                     EDM=9.92677e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85490e+04   1.38605e+02   1.90264e-04   3.06696e-03
+   2  xsection     7.16987e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+ **********
+ **  595 **MIGRAD        1000           1
+ **********
+ FIRST CALL TO USER FUNCTION AT NEW START POINT, WITH IFLAG=4.
+ START MIGRAD MINIMIZATION.  STRATEGY  1.  CONVERGENCE WHEN EDM .LT. 1.00e-03
+ FCN=-71935.7 FROM MIGRAD    STATUS=INITIATE        2 CALLS        1099 TOTAL
+                     EDM=7.06566e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85490e+04   1.38605e+02   1.90264e-04   1.82964e+00
+   2  xsection     7.28459e-02     fixed    
+                               ERR DEF= 0.5
+ MIGRAD MINIMIZATION HAS CONVERGED.
+ MIGRAD WILL VERIFY CONVERGENCE AND ERROR MATRIX.
+ COVARIANCE MATRIX CALCULATED SUCCESSFULLY
+ FCN=-71935.7 FROM MIGRAD    STATUS=CONVERGED      12 CALLS        1109 TOTAL
+                     EDM=9.92679e-12    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  nFakeMET     1.85487e+04   1.38605e+02   1.90265e-04   3.06695e-03
+   2  xsection     7.28459e-02     fixed    
+                               ERR DEF= 0.5
+ EXTERNAL ERROR MATRIX.    NDIM=  25    NPAR=  1    ERR DEF=0.5
+  1.921e+04 
+Input graph with 100 bins
+Integral of input graph with positive prior: 0.0293245
+100
+Reached the 0.95 limit at bin 78 with x = 0.0487534
+Upper limit: 0.0487534 at 0.95 C.L.
